@@ -5,6 +5,12 @@
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena-Test/weekly-challenge-24-tomorrow-night/blob/main/vjeux">
 
 
+
+### Winners:
+
+* The winner for $150 is @free_one_! with Operation. fingers crossed https://github.com/Algorithm-Arena-Test/weekly-challenge-24-tomorrow-night/issues/1
+
+
 ### Prizes:
 * Winner: $150
 * 2nd: $100
